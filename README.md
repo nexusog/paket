@@ -7,8 +7,8 @@ Template Repository for NPM Package
 - [x] tsup
 - [x] prettier
 - [x] eslint
-- [ ] husky
-    - [ ] commitlint
+- [x] husky
+    - [x] commitlint
     - [x] prettier for staged files
 - [ ] github workflow
 - [ ] vitest
