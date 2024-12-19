@@ -4,7 +4,8 @@
 	"description": "Template Package",
 	"main": "index.js",
 	"scripts": {
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"build": "tsup"
 	},
 	"keywords": [],
 	"author": "",
