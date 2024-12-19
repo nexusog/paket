@@ -8,6 +8,8 @@
 		"format": "prettier --write .",
 		"build": "tsup",
 		"lint": "eslint .",
+		"test": "vitest --no-watch",
+		"test:watch": "vitest --watch",
 		"prepare": "husky"
 	},
 	"keywords": [],
@@ -23,6 +25,8 @@
 		"prettier": "^3.4.2",
 		"tsup": "^8.3.5",
 		"typescript": "^5.7.2",
-		"typescript-eslint": "^8.18.1"
+		"typescript-eslint": "^8.18.1",
+		"vite-tsconfig-paths": "^5.1.4",
+		"vitest": "^2.1.8"
 	}
 }
