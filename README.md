@@ -10,6 +10,6 @@ Template Repository for NPM Package
 - [x] husky
     - [x] commitlint
     - [x] prettier for staged files
-- [ ] github workflow
+- [x] github workflow
 - [x] vitest
-- [ ] changesets
+- [x] changesets
