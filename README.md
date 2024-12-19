@@ -11,4 +11,5 @@ Template Repository for NPM Package
     - [x] commitlint
     - [x] prettier for staged files
 - [ ] github workflow
-- [ ] vitest
+- [x] vitest
+- [ ] changesets
