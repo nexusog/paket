@@ -5,7 +5,7 @@ Template Repository for NPM Package
 # Roadmap
 
 - [ ] tsup
-- [ ] prettier
+- [x] prettier
 - [ ] eslint
 - [ ] husky
     - [ ] commitlint
