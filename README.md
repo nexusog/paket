@@ -6,7 +6,7 @@ Template Repository for NPM Package
 
 - [x] tsup
 - [x] prettier
-- [ ] eslint
+- [x] eslint
 - [ ] husky
     - [ ] commitlint
     - [ ] prettier for staged files
